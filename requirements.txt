@@ -1,7 +1,7 @@
-streamlit
+streamlit==1.32.0
 plotly
 pandas
 numpy
 opencv-python-headless
-ultralytics
 matplotlib
+ultralytics
